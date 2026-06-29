@@ -53,7 +53,6 @@ Netflix Clone is a full-stack streaming platform inspired by Netflix that delive
 * Desktop Optimized
 
 ---
-
 ## 🛠️ Tech Stack
 
 | Category         | Technologies               |
