@@ -16,7 +16,6 @@ Built with **Next.js, React, TypeScript, MongoDB, Prisma, and NextAuth**
 </div>
 
 ---
-
 ## 🚀 Overview
 
 Netflix Clone is a full-stack streaming platform inspired by Netflix that delivers a seamless and responsive user experience. Users can securely register, log in, browse movies, and enjoy a visually appealing interface built using modern web technologies.
