@@ -106,7 +106,6 @@ npm install
 ### 3️⃣ Configure Environment Variables
 
 Create a `.env` file:
-
 ```env
 DATABASE_URL=your_mongodb_connection_string
 
